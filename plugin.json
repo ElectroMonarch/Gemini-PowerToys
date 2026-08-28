@@ -1,0 +1,13 @@
+{
+  "ID": "B8D38372-96AC-444C-8F8D-906567300702", 
+  "ActionKeyword": "gemini",
+  "IsGlobal": true,
+  "Name": "PowerToys Gemini",
+  "Author": "ElectroMonarch",
+  "Version": "1.0",
+  "Language": "csharp",
+  "Website": "https://gemini.google.com",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.Gemini.dll",
+  "IcoPathDark": "Icon\\Gemini.png",
+  "IcoPathLight": "Icon\\Gemini.png"
+}

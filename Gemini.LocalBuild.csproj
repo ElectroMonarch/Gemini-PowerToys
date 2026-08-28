@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows10.0.26100.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Platforms>x64</Platforms>
+    <PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>Community.PowerToys.Run.Plugin.Gemini</AssemblyName>
+    <RootNamespace>Community.PowerToys.Run.Plugin.Gemini</RootNamespace>
+    <OutputPath>bin\Gemini\</OutputPath>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="main.cs" />
+    <None Include="Icon\Gemini.png" CopyToOutputDirectory="PreserveNewest" />
+    <Reference Include="Wox.Plugin">
+      <HintPath>Y:\Kodlar\PowerToys\x64\Release\WoxInfrastructure\Wox.Plugin.dll</HintPath>
+    </Reference>
+    <Reference Include="Wox.Infrastructure">
+      <HintPath>Y:\Kodlar\PowerToys\x64\Release\WoxInfrastructure\Wox.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="PowerToys.ManagedCommon">
+      <HintPath>Y:\Kodlar\PowerToys\x64\Release\WoxInfrastructure\PowerToys.ManagedCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="PowerToys.Common.UI">
+      <HintPath>Y:\Kodlar\PowerToys\x64\Release\WoxInfrastructure\PowerToys.Common.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

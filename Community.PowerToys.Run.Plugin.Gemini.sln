@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Community.PowerToys.Run.Plugin.Gemini", "Community.PowerToys.Run.Plugin.Gemini.csproj", "{041EA2F6-9003-380B-4618-649DF7AA1D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041EA2F6-9003-380B-4618-649DF7AA1D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041EA2F6-9003-380B-4618-649DF7AA1D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041EA2F6-9003-380B-4618-649DF7AA1D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041EA2F6-9003-380B-4618-649DF7AA1D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84191742-2255-42D9-8C71-E808D26658D9}
+	EndGlobalSection
+EndGlobal
