@@ -1,0 +1,7 @@
+-target net8.0
+-input 10.0.26100.0
+-input 
+-output "Y:\Kodlar\Community.PowerToys.Run.Plugin.Gemini\obj\Debug\Generated Files\CsWinRT"
+
+-exclude Windows
+-exclude Microsoft

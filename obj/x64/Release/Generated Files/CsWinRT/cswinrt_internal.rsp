@@ -1,0 +1,7 @@
+-target net8.0
+-input 10.0.26100.0
+-input "Y:\Kodlar\PowerToys\x64\Release\PowerToys.Interop.winmd" "Y:\Kodlar\PowerToys\x64\Release\PowerToys.ZoomItSettingsInterop.winmd"
+-output "Y:\Kodlar\PowerToys\src\modules\launcher\Plugins\Community.PowerToys.Run.Plugin.Gemini\obj\x64\Release\Generated Files\CsWinRT"
+
+-exclude Windows
+-exclude Microsoft
