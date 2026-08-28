@@ -1,0 +1,8 @@
+Y:\Kodlar\PowerToys\src\modules\launcher\Plugins\Community.PowerToys.Run.Plugin.Gemini\obj\x64\Release\Community.PowerToys.Run.Plugin.Gemini.csproj.AssemblyReference.cache
+Y:\Kodlar\PowerToys\src\modules\launcher\Plugins\Community.PowerToys.Run.Plugin.Gemini\obj\x64\Release\Community.PowerToys.Run.Plugin.Gemini.Properties.Resources.resources
+Y:\Kodlar\PowerToys\src\modules\launcher\Plugins\Community.PowerToys.Run.Plugin.Gemini\obj\x64\Release\Community.PowerToys.Run.Plugin.Gemini.csproj.GenerateResource.cache
+Y:\Kodlar\PowerToys\src\modules\launcher\Plugins\Community.PowerToys.Run.Plugin.Gemini\obj\x64\Release\Community.PowerToys.Run.Plugin.Gemini.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Kodlar\PowerToys\src\modules\launcher\Plugins\Community.PowerToys.Run.Plugin.Gemini\obj\x64\Release\Community.PowerToys.Run.Plugin.Gemini.AssemblyInfoInputs.cache
+Y:\Kodlar\PowerToys\src\modules\launcher\Plugins\Community.PowerToys.Run.Plugin.Gemini\obj\x64\Release\Community.PowerToys.Run.Plugin.Gemini.AssemblyInfo.cs
+Y:\Kodlar\PowerToys\src\modules\launcher\Plugins\Community.PowerToys.Run.Plugin.Gemini\obj\x64\Release\Community.PowerToys.Run.Plugin.Gemini.csproj.CoreCompileInputs.cache
+Y:\Kodlar\PowerToys\src\modules\launcher\Plugins\Community.PowerToys.Run.Plugin.Gemini\obj\x64\Release\Community.PowerToys.Run.Plugin.Gemini.sourcelink.json
