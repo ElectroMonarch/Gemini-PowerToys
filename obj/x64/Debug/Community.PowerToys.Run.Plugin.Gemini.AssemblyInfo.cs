@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Community.PowerToys.Run.Plugin.Gemini")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0571a25d7bfa8fcc0f777565874a599b829a875e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Community.PowerToys.Run.Plugin.Gemini")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Community.PowerToys.Run.Plugin.Gemini")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
